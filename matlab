@@ -1,8 +1,8 @@
 % خواندن داده‌ها از فایل اکسل
-%filename = 'data.xlsx'; % 
-%data = readtable(filename); %
+filename = 'data.xlsx'; % 
+data = readtable(filename); %
 
-% فایل: t.m
+فایل: t.m
 clear all;
 clc;
 
